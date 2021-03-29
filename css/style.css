@@ -101,7 +101,7 @@ header nav .branding{
     color:var(--primary);
 }
 @keyframes changetext{
-    0%{content:"Front-end Web Developer";}
+    0%{content:"Web Developer";}
     40%{ content:"Computer Programmer"; }
     70%{ content: "CSE Sophomore"; }
     100%{ content:"Learner!"; }
