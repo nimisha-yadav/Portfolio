@@ -103,7 +103,7 @@ header nav .branding{
 @keyframes changetext{
     0%{content:"Web Developer";}
     40%{ content:"Computer Programmer"; }
-    70%{ content: "CSE Sophomore"; }
+    70%{ content: "Rising CSE Junior"; }
     100%{ content:"Learner!"; }
 }
 .hero .right p{
